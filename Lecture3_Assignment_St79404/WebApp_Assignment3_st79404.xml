@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book>
+   <title>The Picture of Dorian Gray</title>
+   <author>Oscar Wilde</author>
+   <chapter>Chapter 8</chapter>
+   <yearOfP>1890</yearOfP>
+   <textFont>Times New Roman</textFont>
+   <headingTags>h1, h3, h4</headingTags>
+</book>
