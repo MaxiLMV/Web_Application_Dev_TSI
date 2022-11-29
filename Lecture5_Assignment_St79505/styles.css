@@ -1,0 +1,46 @@
+.header {
+	align-items: center;
+	justify-content: center;
+	display: grid;
+	width: 100%;
+	text-align: left;
+}
+
+.special-text {
+	font-family: "Liberation Mono", "Courier New", monospace;
+}
+
+.article {
+	justify-content: center;
+	display: flex;
+	gap: 25px;
+	width: 100%;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.footer {
+	align-items: center;
+	justify-content: center;
+	display: grid;
+	width: 100%;
+	text-align: left;
+}
+
+.column-one {
+	border-style: solid;
+	border-width: 0px;
+	border-right-width: 1px;
+	width: 33%;
+}
+
+.column-two {
+	border-style: solid;
+	border-width: 0px;
+	border-right-width: 1px;
+	width: 34%;
+}
+
+.column-three {
+	width: 33%;
+}
