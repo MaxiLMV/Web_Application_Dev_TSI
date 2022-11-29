@@ -1,0 +1,41 @@
+.italy-flag {
+  display: flex;
+}
+.green {
+  height: 600px;
+  width: 333px;
+  background-color: green;
+}
+.white {
+  height: 598px;
+  width: 334px;
+  background-color: white;
+  border-style: solid;
+  border-width: 0px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+}
+.red {
+  height: 600px;
+  width: 333px;
+  background-color: red;
+}
+
+.costa-rica-flag {
+  display: grid;
+}
+.blue {
+  height: 100px;
+  width: 1000px;
+  background-color: blue;
+}
+.white1 {
+  height: 100px;
+  width: 1000px;
+  background-color: white;
+}
+.red1 {
+  height: 200px;
+  width: 1000px;
+  background-color: red;
+}
