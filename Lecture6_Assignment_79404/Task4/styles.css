@@ -1,0 +1,34 @@
+.postcardbg {
+  display: grid;
+  border: 2px dashed black;
+  width: 50%;
+  margin: 8px;
+}
+
+.riga_image {
+  margin: 8px;
+  width: 40%;
+}
+
+.postcard_input {
+  margin: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+a:link, a:visited {
+  background-color: gray;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: lightgray;
+}
